@@ -28,9 +28,7 @@ This project was built as part of an assignment as part of my graduate Machine L
 
 ## Data
 
-The Vertebral Column Data Set was collected by Dr. Henrique da Mota during a medical residency in Lyon, France. It contains six biomechanical attributes of the pelvis and lumbar spine. The dataset is publicly available at the UCI Machine Learning Repository:
-
-[Vertebral Column Data Set](https://archive.ics.uci.edu/ml/datasets/Vertebral+Column)
+The Vertebral Column Data Set contains six biomechanical attributes of the pelvis and lumbar spine. The dataset is publicly available at the UCI Machine Learning Repository:
 
 ### Attributes:
 1. **Pelvic Incidence**
