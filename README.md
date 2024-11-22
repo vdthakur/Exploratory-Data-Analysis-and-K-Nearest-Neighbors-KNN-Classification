@@ -4,10 +4,6 @@ This repository contains a detailed analysis and implementation of K-Nearest Nei
 
 ---
 
-# Disclaimer:
-Copyright © [2024] [Varun Thakur]. All rights reserved.
-Unauthorized copying, modification, distribution, or use of this notebook is strictly prohibited.
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -89,3 +85,7 @@ The Vertebral Column Data Set contains six biomechanical attributes of the pelvi
 
 ---
 
+
+# Disclaimer:
+Copyright © [2024] [Varun Thakur]. All rights reserved.
+Unauthorized copying, modification, distribution, or use of this project's code is strictly prohibited.
