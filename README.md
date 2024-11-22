@@ -66,14 +66,14 @@ The Vertebral Column Data Set was collected by Dr. Henrique da Mota during a med
 ### Metric Variants and Weighted Voting
 1. Replace Euclidean distance with:
    - **Minkowski Distance**:
-     - Manhattan distance (`p = 1`)
-     - Logarithmic Minkowski distance (`log10(p) ∈ [0.1, 1.0]`)
-     - Chebyshev distance (`p → ∞`)
+     - Manhattan distance 
+     - Logarithmic Minkowski distance
+     - Chebyshev distance
    - **Mahalanobis Distance**
 2. Replace majority voting with **weighted voting**, using distances as weights. Evaluate performance for Euclidean, Manhattan, and Chebyshev metrics.
 
 ### Learning Curve
-1. Evaluate the best test error rate for different training set sizes (`N ∈ {10, 20, ..., 210}`).
+1. Evaluate the best test error rate for different training set sizes.
 2. Plot the relationship between training set size and test error.
 
 ---
