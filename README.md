@@ -87,5 +87,7 @@ The Vertebral Column Data Set contains six biomechanical attributes of the pelvi
 
 
 # Disclaimer:
-Copyright © [2024] [Varun Thakur]. All rights reserved.
-Unauthorized copying, modification, distribution, or use of this project's code is strictly prohibited.
+This project is licensed under a **proprietary license**.  
+Unauthorized use, copying, modification, or distribution of this project is strictly prohibited.
+
+This repository is shared for educational and portfolio purposes only.  
