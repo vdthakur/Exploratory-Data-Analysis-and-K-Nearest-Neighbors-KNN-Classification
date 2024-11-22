@@ -22,7 +22,7 @@ This repository contains a detailed analysis and implementation of K-Nearest Nei
 
 ## Introduction
 
-This project was built as part of an assignment as part of my graduate Machine Learning course. The main objective is to perform binary classification on the Vertebral Column dataset using KNN and its variations. We also explore the effects of different distance metrics, weighted voting, and training set sizes on classification performance.
+This project was built as part of an assignment for my graduate Machine Learning course. The main objective is to perform binary classification on the Vertebral Column dataset using KNN and its variations. We also explore the effects of different distance metrics, weighted voting, and training set sizes on classification performance.
 
 ---
 
